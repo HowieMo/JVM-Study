@@ -7,6 +7,7 @@ import java.util.List;
  * VM Args:-Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError
  * mhy
  * 2019/3/18 22:48
+ * 堆内存溢出
  */
 public class HeapOOM {
     static class OOMObject {
